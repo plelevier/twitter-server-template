@@ -19,9 +19,9 @@ To check that the server is running :
 
 The admin page is located at :
 
-    http://localhost:8080/admin
+    <http://localhost:8080/admin>
 
 
 For more information and documentation about twitter-server :
 
-    http://twitter.github.io/twitter-server/
+    <http://twitter.github.io/twitter-server/>
